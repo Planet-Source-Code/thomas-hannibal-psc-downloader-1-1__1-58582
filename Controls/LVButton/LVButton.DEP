@@ -1,0 +1,18 @@
+[Version]
+Version=3.0.0.0
+
+[LVButton.ocx <0009>]
+Dest=$(AppPath)
+Date=29-12-2002
+Time=15:59
+Version=3.0.0.0
+CABFilename=LVButton.CAB
+CABINFFile=LVButton.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=msimg32.dll
+Uses8=MSSTKPRP.DLL
