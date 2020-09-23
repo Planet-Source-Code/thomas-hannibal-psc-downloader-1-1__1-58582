@@ -1,0 +1,20 @@
+1. Rename the GradientButtonS_c.ocx.tmp tile by deleting the .tmp...
+2. Register the GradientButtonS_c.ocx UserControl in VB.
+3. Open the project file: PSCdl.vbp.
+4. IF VB dosn't reconize the GradientButtonS_c.ocx then you'll have to fix... Do some thing!
+5. Compile the project!
+
+- OR - 
+
+6. Rename the PSCdl.exe.tmp file to PSCdl.exe... And it's all compiled for you...
+
+/Hannibal
+
+
+By the way...
+
+KDC has just uploaded a update of his remarkable button. I'll use my own enhancement of his old button. I'll recomend that you DL his button and use it in stedt of min. You can find it here:
+
+http://www.pscode.com/xq/ASP/txtCodeId.27225/lngWId.1/qx/vb/scripts/ShowCode.htm
+
+Remember to wote for him. It's a greath work!

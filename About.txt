@@ -1,0 +1,25 @@
+Planet Source Code Downloader... PSCdl
+
+I made this program to help my self downloade code from PSC. I often download code I think could be usefull later... I put it in a directory and try to manage the code by choosing the same name for the .zip file, the image file and the info/about-file...
+
+This program do it all!
+
+Choose destination directory...
+- By clicking on the little red image you will see a
+You mark the project name with the mouse and drag it to the first open box. If succesful the other boxes will open and the first one close and be green! That meens that you now have choosen the filename for each fiel you drop afterwards.
+
+Always on top!
+- The program will always be on the top and you can drag it around freely!
+
+Drag'n'drop => download to destination directory
+- You can drag items from the browser window to the Downloader. By dropping a marked text in the second box (Text) you will automaticly save the text in a file named by the filename and endnig with _about.txt. You can drag a image to the third box (Image) and last you can drag the .zip fiel to the last box (.zip). Each drop result in a download and renaming of the file acording to the first drop - the filename.
+
+Loggin the actions...
+- Each action is logged. You can se the log while working or look at it in the file dl.log after closing the program!
+
+
+Use it... If you like!
+
+AND wote for me if you do - please!
+
+/Hannibal

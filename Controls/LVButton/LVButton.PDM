@@ -1,0 +1,71 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=E:\VB - Controls\ButtonControls\LVButton
+Controls Design-Time Support=Yes
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+C:\WINXP\System32\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+E:\VB - Controls\ButtonControls\LVButton\LVButton.ocx=Yes
+C:\WINXP\system32\msvbvm60.dll=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINXP\system32\msimg32.dll=Yes
+C:\WINXP\system32\MSSTKPRP.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+E:\VB - Controls\ButtonControls\LVButton\LVButton.ocx=$(AppPath)
+C:\WINXP\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINXP\system32\msimg32.dll=$(WinSysPath)
+C:\WINXP\system32\MSSTKPRP.DLL=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=LVButton.CAB
+DepCabRun=LVButton.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=E:\VB - Controls\ButtonControls\LVButton
+ProjectFolder=E:\VB - Controls\ButtonControls\LVButton
+ServerSideCab=
+File1=E:\VB - Controls\ButtonControls\LVButton\LVButton.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
